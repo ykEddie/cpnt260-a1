@@ -12,3 +12,7 @@ When adding all the code into my html file I forgot to add all the extra things 
 
 ### Attributions
 I used assets through Codepen and it directly added the pictures for me so I am not sure how to do the attribution for that.
+
+### Flares
+  - Added a hover to the nav bar (line 88-89)
+  - Set a colour theme (purple, grey, black, and white)
